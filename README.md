@@ -10,6 +10,8 @@ Los scripts del repositorio utilizan modulos standard de python (sys y argparse)
 
 Se recomienda usar una version de python 3.6 +
 
+En particular el desarrollo de esta app fue hecho con Python 3.9.7
+
 # Autor
 
 Raul Gomez
